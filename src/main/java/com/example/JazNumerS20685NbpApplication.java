@@ -1,7 +1,8 @@
-package com.example.jaznumer_s20685nbp;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication
 public class JazNumerS20685NbpApplication {
